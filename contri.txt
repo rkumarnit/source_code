@@ -1,0 +1,1 @@
+The CloudBlock-FogBlock infrastructure is used for deploying TP2SF, as it supports immutability, traceability, and verifiability services among IoT nodes by generating timestamp records for each transaction performed in smart city.
